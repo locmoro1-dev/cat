@@ -1,0 +1,6 @@
+{
+  "name": "Engins Maroc",
+  "description": "Moroccan heavy machinery and construction equipment marketplace connecting owners, renters, operators, and mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
